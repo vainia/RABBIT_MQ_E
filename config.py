@@ -4,5 +4,5 @@ SET={
     'name':'inapolskych',
     'passwd':'mySuperSecretPassword129A',
     'queue_current':'RMQ-E-L',
-    'queve_above':'RMQ-L-W'
+    'queue_above':'RMQ-L-W'
 }
